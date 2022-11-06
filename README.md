@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Ron Eros Mandić. You can just call me Ron.
+- 👀 I am interested in various fields that involve design and technology. One day, I see myself working at the interface between these two areas.
+- 🌱 I'm currently reviewing and refreshing my knowledge of JavaScript while deepening my basic theoretical knowledge of design.
+- 💞️ I am really looking forward to the partner projects with my fellow students.
+- 📫 At this time, I am not providing any contact information other than my private means of communication via Slack. But stay tuned!
